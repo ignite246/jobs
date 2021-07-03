@@ -13,9 +13,9 @@ function App() {
 
         <Switch>
 
-          <Route exact path="/react-jobs" component={Home}></Route>
+          <Route exact path="/" component={Home}></Route>
 
-          <Route exact path="/react-jobs/jobs" component={Jobs}></Route>
+          <Route exact path="/jobs" component={Jobs}></Route>
 
         </Switch>
 
