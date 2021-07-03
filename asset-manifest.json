@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jobs_react_app/static/css/main.c5fa6883.chunk.css",
-    "main.js": "/jobs_react_app/static/js/main.0cf4d79b.chunk.js",
-    "main.js.map": "/jobs_react_app/static/js/main.0cf4d79b.chunk.js.map",
-    "runtime-main.js": "/jobs_react_app/static/js/runtime-main.ffed5e9a.js",
-    "runtime-main.js.map": "/jobs_react_app/static/js/runtime-main.ffed5e9a.js.map",
-    "static/js/2.030dca45.chunk.js": "/jobs_react_app/static/js/2.030dca45.chunk.js",
-    "static/js/2.030dca45.chunk.js.map": "/jobs_react_app/static/js/2.030dca45.chunk.js.map",
-    "static/js/3.da9711d5.chunk.js": "/jobs_react_app/static/js/3.da9711d5.chunk.js",
-    "static/js/3.da9711d5.chunk.js.map": "/jobs_react_app/static/js/3.da9711d5.chunk.js.map",
-    "index.html": "/jobs_react_app/index.html",
-    "static/css/main.c5fa6883.chunk.css.map": "/jobs_react_app/static/css/main.c5fa6883.chunk.css.map",
-    "static/js/2.030dca45.chunk.js.LICENSE.txt": "/jobs_react_app/static/js/2.030dca45.chunk.js.LICENSE.txt"
+    "main.css": "/reacts/jobs_react_app/static/css/main.c5fa6883.chunk.css",
+    "main.js": "/reacts/jobs_react_app/static/js/main.0cf4d79b.chunk.js",
+    "main.js.map": "/reacts/jobs_react_app/static/js/main.0cf4d79b.chunk.js.map",
+    "runtime-main.js": "/reacts/jobs_react_app/static/js/runtime-main.cde959f6.js",
+    "runtime-main.js.map": "/reacts/jobs_react_app/static/js/runtime-main.cde959f6.js.map",
+    "static/js/2.030dca45.chunk.js": "/reacts/jobs_react_app/static/js/2.030dca45.chunk.js",
+    "static/js/2.030dca45.chunk.js.map": "/reacts/jobs_react_app/static/js/2.030dca45.chunk.js.map",
+    "static/js/3.da9711d5.chunk.js": "/reacts/jobs_react_app/static/js/3.da9711d5.chunk.js",
+    "static/js/3.da9711d5.chunk.js.map": "/reacts/jobs_react_app/static/js/3.da9711d5.chunk.js.map",
+    "index.html": "/reacts/jobs_react_app/index.html",
+    "static/css/main.c5fa6883.chunk.css.map": "/reacts/jobs_react_app/static/css/main.c5fa6883.chunk.css.map",
+    "static/js/2.030dca45.chunk.js.LICENSE.txt": "/reacts/jobs_react_app/static/js/2.030dca45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffed5e9a.js",
+    "static/js/runtime-main.cde959f6.js",
     "static/js/2.030dca45.chunk.js",
     "static/css/main.c5fa6883.chunk.css",
     "static/js/main.0cf4d79b.chunk.js"
