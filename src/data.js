@@ -21,6 +21,14 @@ export const posts = [
         company: "TCS Kolkata",
         city: "Kolkata",
         description: "React. js developers design and implement user interface components for JavaScript-based web and mobile applications using the React open-source library ecosystem. These skilled front-end developers are involved in all stages of interface component design, from conception through to final testing."
+    },
+
+    {
+        id: 4,
+        title: "Python Data Scientist",
+        company: "Google India",
+        city: "Mumbai",
+        description: "Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions, Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies, Develop custom data models and algorithms to apply to data sets."
     }
 ];
 
